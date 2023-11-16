@@ -1,0 +1,36 @@
+﻿  TopologicalOperations.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  main.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(43,30): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(275,31): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(280,17): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(281,17): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(285,21): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(286,21): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(288,13): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+G:\VS\OpenGL\CADProject\CADProject\main.cpp(289,13): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码...
+  CADProject.vcxproj -> G:\VS\OpenGL\CADProject\Debug\CADProject.exe
